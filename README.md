@@ -12,7 +12,7 @@ O projeto Secret Word é focado na criação de um jogo, aonde voce tenta descob
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
-- [Vite] (https://vitejs.dev/)
+- [Vite](https://vitejs.dev/)
 
 # Licença
 
