@@ -1,7 +1,7 @@
 # Secret_Word
 
 ## descrição
-O projeto Secret Word é focado na criação de um jogo, aonde voce tenta descobrir a palavra atraves de uma dica, e tbm com sequencia de pontuação.
+Secret Word é um jogo em que o objetivo é descobrir a palavra correta através de uma dica fornecida. O jogador adivinha letra por letra até descobrir a palavra completa. A pontuação é contabilizada de acordo com a quantidade de tentativas corretas e erradas. Jogue e divirta-se testando sua habilidade e conhecimento de palavras.
 
 <h2 align="center"> 
 	🚀Projeto Secret Word está concluído🚀
